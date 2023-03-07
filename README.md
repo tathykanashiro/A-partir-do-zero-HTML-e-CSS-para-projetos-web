@@ -11,3 +11,10 @@
 
 ##
 Colocarei toda a evolução deste curso neste repositório. Até mesmo para ter uma referência da minha evolução durante o projeto.
+
+## Primeira parte do projeto
+
+- Aprendendo o básico de HTML e CSS.
+- Boas práticas de desenvolvimento.
+
+##
