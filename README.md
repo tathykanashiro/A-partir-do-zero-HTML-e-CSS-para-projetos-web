@@ -17,4 +17,6 @@ Colocarei toda a evolução deste curso neste repositório. Até mesmo para ter 
 - Aprendendo o básico de HTML e CSS.
 - Boas práticas de desenvolvimento.
 
-##
+## Organize sua página e deixe-a responsiva para diferentes telas
+
+Neste segundo passo você aprenderá a organizar uma página com CSS Flexbox, criar cabeçalhos, rodapés e aplicar estilos com CSS. E por fim, tornar o seu site responsivo para diferentes tamanhos de tela.
